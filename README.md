@@ -7,6 +7,9 @@ Our core value is centered around the delivery of high-quality lawn care solutio
 <h2>Get in Touch</h2>
 Navigating our website is a breeze, and we've made it even simpler for you to reach out to us. Whether you have questions or need an estimate, our built-in email system is at your service. Feel free to get in touch, and let us transform your lawn into something extraordinary!
 <br>
+<br>
+<br>
+<br>
 <p align="center">
   <img src="https://github.com/Karnan123/Marketing-Website/assets/86682252/8900894b-58af-48f0-95fc-8d89b6791c0e" />
 </p>
