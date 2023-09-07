@@ -8,7 +8,6 @@ At Instant Lawn Care, we take pride in delivering top-notch lawn care services t
   <img src="https://github.com/Karnan123/Marketing-Website/assets/86682252/8900894b-58af-48f0-95fc-8d89b6791c0e" />
 </p>
 <br>
-<br>
 <h2>Our Commitment</h2>
 Our core value is centered around the delivery of high-quality lawn care solutions. We are dedicated to enhancing your outdoor spaces and ensuring your satisfaction.
 <h2>Get in Touch</h2>
