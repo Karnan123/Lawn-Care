@@ -1,5 +1,5 @@
 # Instant Lawn Care - Marketing Website
-Welcome to the official marketing website of Instant Lawn Care!
+Welcome to the official marketing website of Instant Lawn Care! This website serves as a platform to showcase our lawn care, garden care, and snow removal services. You can find the code in the **WebsiteFolder_Version3 directory**, and additional images are available in the **Pictures of Marketing-Website** directory.
 <h2>About Us</h2>
 At Instant Lawn Care, we take pride in delivering top-notch lawn care services to our valued customers. Our website serves as a hub of information, providing you with insights into our services, locations, and the rich history behind our business.
 <br>
